@@ -1,0 +1,2 @@
+# people-counter-in-room
+We here in this project detect occupancy of the room. We deployed two sensors in the room and study the effectiveness and accuracy of the solution for presence of people in the room, number of people in the room at the moment and for the time each participant was in the room. First sensor that we use is CSI camera module for raspberry pi which uses OpenCV for counting people by using face detection. Second sensor we used is ultrasonic sensor (HC-SRO4) which detects objects within its 4-5m.
