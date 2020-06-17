@@ -13,5 +13,7 @@ This way instead of uploading the data from the sensors regularly and unnecessar
 Hardware components:
 
 1 Ultrasonic Sensor (HC-SR04)
+
 2 CSI Camera Module
+
 3 Raspberry Pi 3 Model B
